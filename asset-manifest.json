@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/braidsbynkem/static/css/main.28c83d04.css",
+    "main.js": "/braidsbynkem/static/js/main.86ebaef5.js",
+    "static/js/453.c5d21df2.chunk.js": "/braidsbynkem/static/js/453.c5d21df2.chunk.js",
+    "static/media/braids-background.jpg": "/braidsbynkem/static/media/braids-background.8a8da4ab3b11131f28ef.jpg",
+    "static/media/braidsbynkem-transparent.png": "/braidsbynkem/static/media/braidsbynkem-transparent.8ad40a212ac684a995c4.png",
+    "index.html": "/braidsbynkem/index.html",
+    "main.28c83d04.css.map": "/braidsbynkem/static/css/main.28c83d04.css.map",
+    "main.86ebaef5.js.map": "/braidsbynkem/static/js/main.86ebaef5.js.map",
+    "453.c5d21df2.chunk.js.map": "/braidsbynkem/static/js/453.c5d21df2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c83d04.css",
+    "static/js/main.86ebaef5.js"
+  ]
+}
