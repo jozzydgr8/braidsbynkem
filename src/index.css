@@ -7,7 +7,34 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar */
+.navbar-brand, .nav-link {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    width: 15%;
+}
+
+@media (max-width:750px) {
+    .navbar-brand {
+        width: 30%;
+    }
+}
+nav .container-fluid{
+  padding:0 7%;
+}
+nav{
+  background: var(--white-gradient-blend) ;
+  font-size: small;
+}
+ section > .container-fluid {
+    padding: 6% 7%;
+    
 }
