@@ -1,3 +1,4 @@
+import { Footer } from "../../Shared/Footer"
 import { Navbar } from "../../Shared/Navbar"
 import { Header } from "./Component/Header"
 import { Service } from "./Component/Service"
@@ -8,6 +9,7 @@ export const HomePage = ()=>{
         <Navbar/>
         <Header/>
         <Service/>
+        <Footer/>
         </>
     )
 }

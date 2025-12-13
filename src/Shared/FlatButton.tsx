@@ -4,6 +4,6 @@ type buttonProp = {
 }
 export const FlatButton =({title, onClick}:buttonProp)=>{
     return(
-        <button className="btn btn-md btn-dark">{title}</button>
+        <button className="btn btn-md btn-dark" onClick={onClick}>{title}</button>
     )
 }

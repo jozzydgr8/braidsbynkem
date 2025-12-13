@@ -21,25 +21,20 @@ export const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a href={``} className="nav-link active">
+              <a href={`/`} className="nav-link active">
                 Home
               </a>
             </li>
+
             <li className="nav-item">
-              <a href={''} className="nav-link">
-                About
+              <a href={'#service'} className="nav-link">
+              pricing
               </a>
             </li>
 
             <li className="nav-item">
-              <a href={``} className="nav-link">
-              pricng
-              </a>
-            </li>
-
-            <li className="nav-item">
-              <a href={''} className="nav-link">
-                Good to Know
+              <a href='https://wa.link/ioxpj7' target='_blank' className='nav-link' >
+                Send a message
               </a>
             </li>
 
