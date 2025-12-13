@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/braidsbynkem/static/css/main.cd4ba63a.css",
-    "main.js": "/braidsbynkem/static/js/main.341f3ab3.js",
+    "main.css": "/braidsbynkem/static/css/main.c29b8847.css",
+    "main.js": "/braidsbynkem/static/js/main.7fec7fc4.js",
     "static/js/453.c5d21df2.chunk.js": "/braidsbynkem/static/js/453.c5d21df2.chunk.js",
     "static/media/braids-background.jpg": "/braidsbynkem/static/media/braids-background.8a8da4ab3b11131f28ef.jpg",
     "static/media/stitch2.jpg": "/braidsbynkem/static/media/stitch2.d79f52b2522ed6d4e6c7.jpg",
@@ -9,12 +9,12 @@
     "static/media/cornrow.jpg": "/braidsbynkem/static/media/cornrow.5a245b4976dc1e62c2b1.jpg",
     "static/media/braidsbynkem-transparent.png": "/braidsbynkem/static/media/braidsbynkem-transparent.8ad40a212ac684a995c4.png",
     "index.html": "/braidsbynkem/index.html",
-    "main.cd4ba63a.css.map": "/braidsbynkem/static/css/main.cd4ba63a.css.map",
-    "main.341f3ab3.js.map": "/braidsbynkem/static/js/main.341f3ab3.js.map",
+    "main.c29b8847.css.map": "/braidsbynkem/static/css/main.c29b8847.css.map",
+    "main.7fec7fc4.js.map": "/braidsbynkem/static/js/main.7fec7fc4.js.map",
     "453.c5d21df2.chunk.js.map": "/braidsbynkem/static/js/453.c5d21df2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4ba63a.css",
-    "static/js/main.341f3ab3.js"
+    "static/css/main.c29b8847.css",
+    "static/js/main.7fec7fc4.js"
   ]
 }
